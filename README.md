@@ -2,15 +2,7 @@
 
 Image classification with React-Native and searching this classified price of the product on the Internet.
 
-
-
-<p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>![TF Demo](_art/RN_tensor_flow_lite.gif)
-</p>
+![TF Demo](_art/RN_tensor_flow_lite.gif)
 
 This client design was inspired by this [GITHUB repo](https://github.com/GantMan/RN_TF_Lite/tree/master/android).
 
