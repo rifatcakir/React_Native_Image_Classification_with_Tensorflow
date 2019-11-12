@@ -2,7 +2,7 @@
 
 Image classification with React-Native and searching this classified price of the product on the Internet.
 
-# # Installation
+## Installation
 download the project and run "npm i" in the project folder.
 
 
