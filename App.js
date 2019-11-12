@@ -124,7 +124,7 @@ export default class App extends Component<{}> {
     async getProducts() {
         //Dont use localhost it is different for emulator and spring service
         //Use server service ip
-        let text='http://217.78.102.149:8080/product/query/'.concat("",this.state.image_name);
+        let text='http://xxx.xxx.xxx.xxx:8080/product/query/'.concat("",this.state.image_name);
         try {
           let response = await fetch(
               
@@ -149,9 +149,6 @@ export default class App extends Component<{}> {
                 // the input shape of your model. If none given, it will be default to 224.
                 inputShape: 224
             })
-            console.log("Rıfat")
-            console.log(results);
-
 
             const resultObj = {
                 name:  'Name: '+results[0].name ,
