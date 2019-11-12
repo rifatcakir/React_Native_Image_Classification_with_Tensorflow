@@ -1,8 +1,8 @@
 # Search Product Price with React Native via Tensorflow Lite 
 
-Image classification with React-Native and searching this classified price of the product on the Internet.
+Image classification with React-Native and searching this classified price of the product on the Internet.<br><br>
 [Medium Article](https://github.com/rifatcakir/React_Native_Image_Classification_with_Tensorflow/blob/master/README.md)
-
+<br><br>
 ## Installation
 Download the project and run "npm i" in the project folder.
 
