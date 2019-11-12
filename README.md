@@ -2,6 +2,10 @@
 
 Image classification with React-Native and searching this classified price of the product on the Internet.
 
+# # Installation
+download the project and run "npm i" in the project folder.
+
+
 ![TF Demo](_art/RN_tensor_flow_lite.gif)
 
 This client design was inspired by this [GITHUB repo](https://github.com/GantMan/RN_TF_Lite/tree/master/android).
